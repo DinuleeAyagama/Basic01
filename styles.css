@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f4f4;
+}
+
+p.intro1 { 
+    text-align: right; 
+    color: rgb(197, 8, 8); 
+}
+
+p.intro2 { 
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    background-color: rgb(220, 231, 106); 
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+ul li { 
+    color: rgb(64, 225, 10);
+    font-weight: bold;
+    background-color: rgb(193, 3, 98); 
+    width: 300px;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 3px;}
+
+ol li {
+    color: rgb(240, 229, 29); 
+    font-weight: bold;
+    background-color: rgb(163, 0, 165); 
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    width: 300px;
+
+}
